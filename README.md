@@ -1,13 +1,14 @@
-# Title Slide #
+# Coffee Market Analysis #
 #### Satya Adusumilli, Gerardo Gomez, Charlie Stanley, Michel Tarawali ####
 
-## Motivation & Summary Slide ##
 ### Hypothesis ###
 ##### Is the coffee industry an attractive industry to enter? #####
+
 ### Describe the questions you asked, and why you asked them. ###
-##### Answer Here #####
+#####  We noticed that prices within the retail coffee world have been getting more expensive. Nowadays, we can walk into a coffee shop and easily purchase a nine dollar drink. We wanted evaluate the market components of coffee. What are the contributing factors that affect pricing, supply and demand. We also wanted to evaluate weather conditions in the biggest coffee producing nation, Brazil. They are responsible for nearly half of the worldwide output. #####
+
 ### Describe whether you were able to answer these questions to your satisfaction, and briefly summarize your findings. ###
-##### Answer Here #####
+#####  #####
 
 ## Questions & Data ##
 ### Elaborate on the questions you asked, describing what kinds of data you needed to answer them and where you found it. ### 
