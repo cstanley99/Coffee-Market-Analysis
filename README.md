@@ -45,4 +45,4 @@
 ##### Answer Here #####
 
 # Weather Section - Michel Tarawali #
-![Brazil Temp](/images/Ave Temp in Brazil.png)
+![Brazil Temp](https://github.com/cstanley99/group1/blob/main/images/Ave%20Temp%20in%20Brazil.png)
