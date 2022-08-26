@@ -46,3 +46,4 @@
 
 # Weather Section - Michel Tarawali #
 ![Brazil Temp](https://github.com/cstanley99/group1/blob/main/images/Ave%20Temp%20in%20Brazil.png)
+![](https://github.com/cstanley99/group1/blob/main/images/Ave%20Wind%20in%20Brazil.png)
