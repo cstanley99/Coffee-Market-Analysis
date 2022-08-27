@@ -19,6 +19,8 @@
 ![](https://github.com/cstanley99/group1/blob/main/prod_by_country_vertical_bar.png)
 ![](https://github.com/cstanley99/group1/blob/main/prod_by_country_horizontal_bar.png)
 ![](https://github.com/cstanley99/group1/blob/main/by_country_prodplot.png)
+![](https://github.com/cstanley99/group1/blob/main/top10barplot.png)
+
 
 
 
