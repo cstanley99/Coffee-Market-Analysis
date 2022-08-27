@@ -15,7 +15,7 @@
 # Price Section - Gerardo Gomez #
 
 # Production Section - Charlie Stanley 
-!https://github.com/cstanley99/group1/blob/main/total_prod_bar.png
+![](https://github.com/cstanley99/group1/blob/main/total_prod_bar.png)
 
 
 # Consumption Section - Satya Adusumilli #
