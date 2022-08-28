@@ -13,9 +13,13 @@
 ## Questions & Data ##
 ---
 # Price Section - Gerardo Gomez #
-![](https://github.com/cstanley99/group1/blob/main/combined_prices.png)
-![](hhttps://github.com/cstanley99/group1/blob/main/futuresprices.png)
+
 ![](https://github.com/cstanley99/group1/blob/main/icopricing.png)
+
+![](https://github.com/cstanley99/group1/blob/main/futuresprices.png)
+
+![](https://github.com/cstanley99/group1/blob/main/combined_prices.png)
+
 
 # Production Section - Charlie Stanley 
 ![](https://github.com/cstanley99/group1/blob/main/total_prod_bar.png)
