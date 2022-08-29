@@ -14,6 +14,8 @@
 ---
 # Price Section - Gerardo Gomez #
 
+#### The two main gauges of pricing for coffee around the world comes from the International Coffee Organization and also the International Commodities Market. The ICO breaks down the kinds of coffee and their prices. The futures market prices coffee as a whole.
+
 ![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/icopricing.png)
 
 ![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/futuresprices.png)
@@ -51,8 +53,6 @@
 ![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/CoffeeConsumption.png)
 
 # Weather Section - Michel Tarawali #
-
-#### For  the data set we covered, weather was relatively steady, however climate change is becoming a everpressing issue for this industry as global weather temperatures continue to drop. #####
 
 ![](https://github.com/cstanley99/group1/blob/main/images/Ave%20Temp%20in%20Brazil.png)
 
