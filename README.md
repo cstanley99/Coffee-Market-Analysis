@@ -54,4 +54,8 @@
 
 ![](https://github.com/cstanley99/group1/blob/main/images/Ave%20Temp%20in%20Brazil.png)
 
+![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/Ave%20Temp%20in%20Brazil.png)
+
+![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/Max%20Hum%20in%20Brazil.png)
+
 ![](https://github.com/cstanley99/group1/blob/main/images/Ave%20Wind%20in%20Brazil.png)
