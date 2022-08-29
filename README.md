@@ -14,11 +14,11 @@
 ---
 # Price Section - Gerardo Gomez #
 
-![](https://github.com/cstanley99/group1/blob/main/icopricing.png)
+![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/icopricing.png)
 
-![](https://github.com/cstanley99/group1/blob/main/futuresprices.png)
+![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/futuresprices.png)
 
-![](https://github.com/cstanley99/group1/blob/main/combined_prices.png)
+![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/combined_prices.png)
 
 
 # Production Section - Charlie Stanley 
@@ -28,17 +28,17 @@
 
 #### Coffee production by individual countries tells a different story.  This data shows the disparity of production among producing countries. ####
 
-![](https://github.com/cstanley99/group1/blob/main/prod_by_country_vertical_bar.png)
-![](https://github.com/cstanley99/group1/blob/main/prod_by_country_horizontal_bar.png)
+![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/prod_by_country_vertical_bar.png)
+![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/prod_by_country_horizontal_bar.png)
 
 #### This plot uses the groupby function to display line charts of each country's output. ####
 
-![](https://github.com/cstanley99/group1/blob/main/by_country_prodplot.png)
+![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/by_country_prodplot.png)
 
 #### The top 10 coffee producers dominate the industry with Brazil accounting for ~40% of global output. ####
 
-![](https://github.com/cstanley99/group1/blob/main/top10barplot.png)
-![](https://github.com/cstanley99/group1/blob/main/top10lineplot.png)
+![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/top10barplot.png)
+![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/top10lineplot.png)
 
 
 
@@ -47,7 +47,7 @@
 
 
 # Consumption Section - Satya Adusumilli #
-![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/CoffeeConsumption.png)
+![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/CoffeeConsumption.png
 
 # Weather Section - Michel Tarawali #
 
