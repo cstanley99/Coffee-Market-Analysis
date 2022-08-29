@@ -47,7 +47,7 @@
 
 
 # Consumption Section - Satya Adusumilli #
-![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/CoffeeConsumption.png
+![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/CoffeeConsumption.png)
 
 # Weather Section - Michel Tarawali #
 
