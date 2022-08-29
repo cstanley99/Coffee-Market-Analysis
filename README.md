@@ -64,6 +64,6 @@
 
 # Conclusion #
 
-#### Coffee price and production have a close correlation due to the basic law of supply and demand. We noticed consumption is relatively flat, which indicates there is steady consumption of coffee yearly with minimal seasonality. While weather is an important factor to production, based on our dataset, we were unable to find a direct correlation to the production.
+#### Coffee price and production have a close correlation due to the basic law of supply and demand. We noticed consumption is relatively flat, which indicates there is steady consumption of coffee yearly with minimal seasonality. While weather is an important factor to production, based on our dataset, we were unable to find a direct correlation to the production. ####
 
-As an entrepreneur the coffee market is an attractive industry to enter based on the fact that consumption seems stable. Any new entrants would need to focus mainly on price fluctuations based on production, keeping in mind that climate change is impacting this industry.
+#### As an entrepreneur the coffee market is an attractive industry to enter based on the fact that consumption seems stable. Any new entrants would need to focus mainly on price fluctuations based on production, keeping in mind that climate change is impacting this industry. ######## 
