@@ -36,7 +36,7 @@
 
 ![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/by_country_prodplot.png)
 
-#### The top 10 coffee producers dominate the industry with Brazil accounting for ~40% of global output. ####
+#### The top 10 coffee producers dominate the industry accounting for 87% of production, with Brazil alone producing ~35% of global output. ####
 
 ![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/top10barplot.png)
 ![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/top10lineplot.png)
