@@ -23,11 +23,20 @@
 
 # Production Section - Charlie Stanley 
 
-#### All coffee production data was downloaded from the International Coffee Organization (ICO) website.  The ICO has production data going back to 1990;  this analysis covers 2015 - 2019, the most up to date, complete dataset available. ####
+#### All coffee production data was downloaded from the International Coffee Organization (ICO) website.  The ICO has production data going back to 1990;  this analysis covers 2015 - 2019, the most up to date, complete dataset available. Coffee production remained stable during this period with a slight downturn in 2019. ####
 ![](https://github.com/cstanley99/group1/blob/main/total_prod_bar.png)
+
+#### Coffee production by individual countries tells a different story.  This data shows the disparity of production among producing countries. ####
+
 ![](https://github.com/cstanley99/group1/blob/main/prod_by_country_vertical_bar.png)
 ![](https://github.com/cstanley99/group1/blob/main/prod_by_country_horizontal_bar.png)
+
+#### This plot uses the groupby function to display line charts of each country's output. ####
+
 ![](https://github.com/cstanley99/group1/blob/main/by_country_prodplot.png)
+
+#### The top 10 coffee producers dominate the industry with Brazil accounting for ~40% of global output. ####
+
 ![](https://github.com/cstanley99/group1/blob/main/top10barplot.png)
 ![](https://github.com/cstanley99/group1/blob/main/top10lineplot.png)
 
