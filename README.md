@@ -52,6 +52,8 @@
 
 # Weather Section - Michel Tarawali #
 
+#### For  the data set we covered, weather was relatively steady, however climate change is becoming a everpressing issue for this industry as global weather temperatures continue to drop. #####
+
 ![](https://github.com/cstanley99/group1/blob/main/images/Ave%20Temp%20in%20Brazil.png)
 
 ![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/Ave%20Temp%20in%20Brazil.png)
