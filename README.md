@@ -22,6 +22,8 @@
 
 
 # Production Section - Charlie Stanley 
+
+#### All coffee production data was downloaded from the International Coffee Organization (ICO) website.  The ICO has production data going back to 1990;  this analysis covers 2015 - 2019, the most up to date, complete dataset available. ####
 ![](https://github.com/cstanley99/group1/blob/main/total_prod_bar.png)
 ![](https://github.com/cstanley99/group1/blob/main/prod_by_country_vertical_bar.png)
 ![](https://github.com/cstanley99/group1/blob/main/prod_by_country_horizontal_bar.png)
