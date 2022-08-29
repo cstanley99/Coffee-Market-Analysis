@@ -14,7 +14,7 @@
 ---
 # Price Section - Gerardo Gomez #
 
-#### The two main gauges of pricing for coffee around the world comes from the International Coffee Organization and also the International Commodities Market. The ICO breaks down the kinds of coffee and their prices. The futures market prices coffee as a whole.
+#### The two main gauges of pricing for coffee around the world comes from the International Coffee Organization and also the International Mercantle Exchange. The ICO breaks down the kinds of coffee and their prices. The futures market prices coffee as a whole.
 
 ![](https://github.com/cstanley99/Coffee-Market-Analysis/blob/main/images/icopricing.png)
 
